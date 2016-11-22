@@ -12,7 +12,7 @@
 		  "background-image": "-moz-linear-gradient(left, black, black 34%,orangered 34%,orangered 67%, darkgreen 67%)",
 		  "background": "-webkit-linear-gradient(left, black, black 34%,orangered 34%,orangered 67%, darkgreen 67%)",
 		  "background-image": "linear-gradient(left, black, black 34%,orangered 34%,orangered 67%, darkgreen 67%)",
-		  "-moz-background-size": "10% 10%",
+		  "-moz-background-size": "150px 150px",
 		  "-webkit-background-size": "150px 150px"
 		}).click(function () {
 			$(this).animate({
